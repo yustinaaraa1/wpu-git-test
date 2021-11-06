@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Halaman html</title>
+	<title>Perubahan html</title>
 </head>
 <body>latihan 
 
